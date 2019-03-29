@@ -1,3 +1,3 @@
 # ruum-calendar
 
-enter layOutDay(events) in console and Enter to create timetable.
+enter "layOutDay(events)" in console and then "Enter" to create timetable.
